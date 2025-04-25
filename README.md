@@ -53,7 +53,8 @@ So this repository is going to serve as my notes from the past few lessons, as w
          ``` javascript
          programming_dictionary = {
         "Bug": "An error in a program that prevents the program from running as expected.",
-        "Function": "A piece of code that you can easily call over and over again.", #good            practice to end with comma
+        "Function": "A piece of code that you can easily call over and over again.",
+         #good practice to end with comma
          }
          ```
      - you can call a value like this:  
